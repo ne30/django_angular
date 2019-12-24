@@ -1,0 +1,6 @@
+1. Use "python book_sell/manage.py runserver" to run the server for the API.
+2. Use "ng serve" to render teh angular.
+3. Access it on "localhost:4200"
+4. Admin access for django on "localhost:8000/admin"
+    user_id = "neer"
+    pass = "1234"
